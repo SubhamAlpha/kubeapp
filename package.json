@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "kubeapp",
   "private": true,
   "version": "0.0.0",
@@ -27,5 +28,18 @@
     "eslint-plugin-react-refresh": "^0.5.2",
     "globals": "^17.4.0",
     "vite": "^8.0.1"
+=======
+  "name": "express-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+>>>>>>> 968086b (Save local express-demo files before pulling)
   }
 }
